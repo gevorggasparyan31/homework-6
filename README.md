@@ -8,3 +8,5 @@ Removed unnecessary line breaks.
 Another optimization option also can be removing the modals from html code, and render them only when user will click button, but that can slow down modals'
 rendering process. So I just made the modal code look more structured. 
 
+
+**From ~2000 lines of HTML code as a result now I have 237 (84 tags).**
